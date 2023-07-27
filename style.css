@@ -1,0 +1,33 @@
+h1{
+    border-style: solid dotted dashed;
+    border-width: 5px 10px 15px 20px solid;
+    border-color: purple coral yellowgreen palegreen;
+    border-bottom: 8px dashed green ;
+}
+p{
+    color: red;
+}
+.class1 {
+    background-image: url(images/blue-black-muscle-car-with-license-plate-that-says-trans-front_1340-23399.avif);
+    background-image: url(https://images.unsplash.com/photo-1615280825886-fa817c0a06cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80);
+    
+    
+    backface-visibility: visible;
+    background-repeat: no-repeat;
+    background-position:bottom;
+    background-attachment:local;
+    background-blend-mode: screen;
+}
+
+.class1 p{
+  color: firebrick ;
+   
+}
+.class1 p{
+    color: darkcyan;
+}
+.class2 {
+    background-color: mediumpurple;
+}
+    
+}
